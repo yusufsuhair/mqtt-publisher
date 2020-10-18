@@ -4,3 +4,4 @@ mqtt-publisher is responsible to publish the data from sensor. I am using Blynk 
 
 Steps :
   1. Run the .ino file on your ESP8266.
+  2. Don't forget to change your ssid, wifi password, Blynk auth token
