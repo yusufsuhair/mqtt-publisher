@@ -7,7 +7,7 @@ Steps :
   2. Don't forget to change your ssid, wifi password, Blynk auth token
   
 Resources:
-1. https://github.com/yusufsuhair/mqtt-gui
+1. https://github.com/yusufsuhair/mqtt-backend-frontend
 2. https://github.com/yusufsuhair/mqtt-subscriber
 3. https://github.com/yusufsuhair/mqtt-publisher
 
